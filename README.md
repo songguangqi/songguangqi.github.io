@@ -12,3 +12,5 @@ for a second create to test the persional website !
 
 靡不有初，鲜克有终。
 
+>>>
+张天翼 《夏夜梦》：“一个玩票的可万不能下海。玩票的时候谁都捧你，一下海就完了。” 
